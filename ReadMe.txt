@@ -1,0 +1,1 @@
+To Run it just type in the terminal: "javac Jogo_Do_Galo.java && java Jogo_Do_Galo"
